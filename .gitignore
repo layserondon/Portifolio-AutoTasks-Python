@@ -14,3 +14,4 @@ token.pickle
 # Google OAuth
 **/credentials/client_secret.json
 **/credentials/token.json
+.idea/
