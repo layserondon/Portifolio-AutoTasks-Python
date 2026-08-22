@@ -1,9 +1,16 @@
-# Google OAuth
-**/credentials/client_secret.json
-**/credentials/token.json
-
+# IDE
 .idea/
+
+# Python
 __pycache__/
 *.pyc
 .venv/
-.idea/
+
+# Secrets
+.env
+*.env
+token.pickle
+
+# Google OAuth
+**/credentials/client_secret.json
+**/credentials/token.json

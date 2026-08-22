@@ -1,0 +1,9 @@
+# Google OAuth
+**/credentials/client_secret.json
+**/credentials/token.json
+
+.idea/
+__pycache__/
+*.pyc
+.venv/
+.idea/
